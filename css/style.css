@@ -127,7 +127,7 @@ body.lock {
 }
 
 .header {
-  background: url(computer/png/background.png) center/cover no-repeat;
+  background: url(../png/background.png) center/cover no-repeat;
 }
 
 .header__container {
